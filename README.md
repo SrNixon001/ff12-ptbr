@@ -28,6 +28,16 @@ Se você preferir acompanhar o processo em vídeo, aqui está o tutorial mostran
 
 - [Assistir no YouTube](https://www.youtube.com/watch?v=QzFkaFCr_fI)
 
+## Capturas da tradução
+
+### Menu principal traduzido
+
+![Menu principal traduzido](docs/images/menu-principal.jpg)
+
+### Configuração de legendas
+
+![Configuração de legendas](docs/images/config-legendas.jpg)
+
 ## Como instalar
 
 ### Automática `r1`
@@ -35,6 +45,8 @@ Se você preferir acompanhar o processo em vídeo, aqui está o tutorial mostran
 1. Extraia `FF12_PTBR_Installer_v1.8.0-r1.zip`.
 2. Execute `FF12_PTBR_Installer_v1.8.0-r1.exe`.
 3. Use a opção de instalar ou remover dentro do instalador.
+
+> Importante: para as legendas aparecerem traduzidas durante as cenas, a opção **Legendas** precisa estar ativada nas configurações do jogo.
 
 ### Manual `r3`
 
@@ -78,6 +90,8 @@ O resultado final precisa ficar exatamente assim:
 #### 4. Abra o jogo
 
 Abra o jogo normalmente pelo Steam.
+
+> Importante: para as legendas aparecerem traduzidas durante as cenas, a opção **Legendas** precisa estar ativada nas configurações do jogo.
 
 #### 5. Se a tradução não aparecer
 
