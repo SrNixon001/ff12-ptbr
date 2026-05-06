@@ -17,6 +17,7 @@ Esta release contém duas formas de instalação:
 - instalador automático
 - fluxo mais simples para o usuário final
 - melhor opção para a maioria das pessoas
+- vídeo de instalação: [YouTube](https://www.youtube.com/watch?v=QzFkaFCr_fI)
 
 ### 2. Versão manual `r3` (alternativa)
 

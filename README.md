@@ -22,6 +22,12 @@ Pacote manual para uso com `FF12 External File Loader`.
 
 > Aviso: a versão `r1` pode gerar mais alertas heurísticos por ser um executável empacotado.
 
+## Vídeo de instalação
+
+Se você preferir acompanhar o processo em vídeo, aqui está o tutorial mostrando a instalação automática:
+
+- [Assistir no YouTube](https://www.youtube.com/watch?v=QzFkaFCr_fI)
+
 ## Como instalar
 
 ### Automática `r1`
