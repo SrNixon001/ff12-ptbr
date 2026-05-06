@@ -1,4 +1,4 @@
-# Asset Hashes
+# Hashes dos Assets
 
 ## Manual `r3`
 
@@ -6,7 +6,7 @@
   - tamanho: `226,532,567` bytes
   - SHA-256: `71C69F28DDB8F2ACC56C3E88369B375D173D6BF76720875681391C438402B6E1`
 
-## Automatica `r1`
+## Automática `r1`
 
 - `FF12_PTBR_Installer_v1.8.0-r1.zip`
   - tamanho: `234,074,761` bytes

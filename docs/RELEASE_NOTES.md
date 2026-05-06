@@ -1,40 +1,40 @@
-# Release Notes
+# Notas de Release
 
-## Titulo sugerido
+## Título sugerido
 
-`FINAL FANTASY XII THE ZODIAC AGE - Traducao PT-BR`
+`FINAL FANTASY XII THE ZODIAC AGE - Tradução PT-BR`
 
-## Descricao curta
+## Descrição curta
 
-Traducao em portugues brasileiro para FINAL FANTASY XII THE ZODIAC AGE, com uma versao manual recomendada e uma versao automatica opcional.
+Tradução em português brasileiro para FINAL FANTASY XII THE ZODIAC AGE, com uma versão manual recomendada e uma versão automática opcional.
 
 ## Corpo sugerido
 
-Esta release contem duas formas de instalacao:
+Esta release contém duas formas de instalação:
 
-### 1. Versao manual `r3` (recomendada)
+### 1. Versão manual `r3` (recomendada)
 
 - usa `FF12 External File Loader`
-- pacote sem executavel
-- melhor opcao para distribuicao publica
+- pacote sem executável
+- melhor opção para distribuição pública
 
-### 2. Versao automatica `r1` (opcional)
+### 2. Versão automática `r1` (opcional)
 
-- instalador automatico
-- fluxo mais simples para o usuario final
-- pode gerar mais alertas heurísticos por ser executavel empacotado
+- instalador automático
+- fluxo mais simples para o usuário final
+- pode gerar mais alertas heurísticos por ser executável empacotado
 
-### Instalacao da `r3`
+### Instalação da `r3`
 
 1. Instale o `FF12 External File Loader`.
 2. Extraia `FF12_PTBR_v1.8.0-r3.zip`.
 3. Copie `ff12data` para `mods\deploy`.
 
-### Instalacao da `r1`
+### Instalação da `r1`
 
 1. Extraia `FF12_PTBR_Installer_v1.8.0-r1.zip`.
 2. Execute `FF12_PTBR_Installer_v1.8.0-r1.exe`.
 
 ### Integridade
 
-Os hashes SHA-256 dos assets estao em `docs/ASSET_HASHES.md`.
+Os hashes SHA-256 dos assets estão em `docs/ASSET_HASHES.md`.
