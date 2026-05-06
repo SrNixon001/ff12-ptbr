@@ -32,12 +32,60 @@ Pacote manual para uso com `FF12 External File Loader`.
 
 ### Manual `r3`
 
-1. Instale o `FF12 External File Loader`.
-2. Extraia `FF12_PTBR_v1.8.0-r3.zip`.
-3. Copie a pasta `ff12data` para `mods\deploy` dentro da pasta do jogo.
-4. O caminho final deve ficar:
+#### 1. Instale o FF12 External File Loader
+
+Baixe e instale o `FF12 External File Loader` antes da tradução manual.
+
+Link do loader:
+- [FF12 External File Loader no Nexus Mods](https://www.nexusmods.com/finalfantasy12/mods/170)
+
+Depois da instalação, confirme se estes arquivos existem dentro da pasta do jogo:
+
+- `x64\dinput8.dll`
+- `x64\modules\ff12-file-loader.dll`
+
+Se o jogo não abrir ou se o loader não funcionar, instale ou repare o:
+
+- `Microsoft Visual C++ Redistributable (x64)`
+
+#### 2. Extraia a tradução manual
+
+Extraia `FF12_PTBR_v1.8.0-r3.zip` em uma pasta temporária qualquer.
+
+Dentro dela, você deve encontrar a pasta:
+
+- `ff12data`
+
+#### 3. Copie a tradução para a pasta certa
+
+Entre na pasta do jogo e, se ainda não existir, crie:
+
+- `mods`
+- `mods\deploy`
+
+Agora copie a pasta `ff12data` extraída para dentro de `mods\deploy`.
+
+O resultado final precisa ficar exatamente assim:
 
 `FINAL FANTASY XII THE ZODIAC AGE\mods\deploy\ff12data`
+
+#### 4. Abra o jogo
+
+Abra o jogo normalmente pelo Steam.
+
+#### 5. Se a tradução não aparecer
+
+Confira estes pontos com calma:
+
+1. O loader foi instalado e os arquivos abaixo existem:
+   - `x64\dinput8.dll`
+   - `x64\modules\ff12-file-loader.dll`
+2. A pasta final ficou exatamente em:
+   - `mods\deploy\ff12data`
+3. A pasta não ficou duplicada por engano, por exemplo:
+   - `mods\deploy\FF12_PTBR_v1.8.0-r3\ff12data`
+4. O jogo foi fechado antes de copiar os arquivos.
+5. As legendas estão ativadas nas configurações do jogo, caso você queira ver as falas durante cenas.
 
 ## Sobre este repositório
 

@@ -32,8 +32,10 @@ Esta release contém duas formas de instalação:
 ### Instalação da `r3`
 
 1. Instale o `FF12 External File Loader`.
-2. Extraia `FF12_PTBR_v1.8.0-r3.zip`.
-3. Copie `ff12data` para `mods\deploy`.
+2. Confirme que existem `x64\dinput8.dll` e `x64\modules\ff12-file-loader.dll` na pasta do jogo.
+3. Extraia `FF12_PTBR_v1.8.0-r3.zip`.
+4. Copie `ff12data` para `mods\deploy`.
+5. Confira se o caminho final ficou `mods\deploy\ff12data`.
 
 ### Integridade
 
